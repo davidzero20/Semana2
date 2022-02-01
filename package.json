@@ -1,0 +1,15 @@
+{
+  "name": "app-consola",
+  "version": "0.0.2",
+  "description": "Una aplicacion de consola para manipular un archivo .JSON",
+  "main": "objetosJSON.js",
+  "scripts": {
+    "start": "node objetosJSON.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ivan Cruz",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.3.1"
+  }
+}
